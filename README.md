@@ -1,2 +1,4 @@
 # Fashion-Classifier
-This is a classification project that utilizes a neural network architecture, which could be found in the official PyTorch tutorials.
+This is a classification project that utilizes a neural network architecture, which could be found in the official PyTorch tutorials. This is my first project on building a model, and it took me pretty much time and effort for this. Considering that I started learing python and basic machine learing theory two weeks ago, it's reasonable that I didn't do some independent work on this task, so it's more like a little try, I guess.
+The way how machines build their way to understand things is amazing, using codes and data we can find some "universal" rules behind things maybe hard to understand or explain by logic -- they just lie in data analysis.
+A little problem is that how can we do more things to improve the model's power, that is still hard to answer right now. Can we figure out some ways to train it better? How did researchers do to achive this goal?
